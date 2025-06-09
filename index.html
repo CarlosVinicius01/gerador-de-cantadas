@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerador de Cantadas</title>
+    <link rel="shortcut icon" href="img/icone.png" type="image/x-icon">
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Gerador de Cantadas</h1>
+        <p >Clique no botão para receber uma cantada!</p>
+        <label for="categoria">Escolha uma categoria:</label>
+        <select id="categoria" onchange="verificarCategoria()">
+            <option value="romanticas">Românticas</option>
+            <option value="engracadas">Engraçadas</option>
+            <option value="ousadas">Ousadas (+18)</option>
+        </select>
+        <p id="cantada"></p>
+        <button onclick="gerarCantadas()">Nova Cantada</button>
+    </div>
+</body>
+</html>
