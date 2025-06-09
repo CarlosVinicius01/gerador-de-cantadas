@@ -37,6 +37,16 @@ const cantadas = {
         "Você me deixa com mais calor que o sol do meio-dia em dia de blackout.",
         "Seu olhar tem mais intenção que muito toque por aí.",
         "Se você fosse uma senha, com certeza seria algo que eu digitava de olhos fechados... e com as mãos ocupadas.",
+        "Você é daqueles pecados que eu cometeria de olhos abertos... e ainda pediria bis com um sorriso no rosto.",
+        "Se sua boca fosse crime, eu aceitaria a pena... desde que fosse perpétua em você.",
+        "Não sou fotógrafo, mas já tô imaginando cenas que nem podem passar no cinema.",
+        "Me chama de noite mal dormida, porque depois de você, descanso vai ser a última coisa na lista.",
+        "Seu corpo é poesia... mas confesso que o que eu quero mesmo é a versão sem censura.",
+        "Você tem cara de quem dá problema... e eu tô doido pra ser sua confusão favorita.",
+        "Se sua pele fosse livro, eu passava horas lendo... com a língua.",
+        "Você não é tempestade, mas só de te ver, já molha minha imaginação inteira.",
+        "Esquece o jantar... me serve você à meia-luz, que eu prometo devorar com todos os sentidos.",
+        "Sua presença é afrodisíaca... se você chegar mais perto, eu não respondo pelos instintos."
     ]
 }
 
